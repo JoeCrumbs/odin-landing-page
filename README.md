@@ -3,7 +3,7 @@
 ## Assignment ([The Odin Project Challenge Nr.2](https://www.theodinproject.com/lessons/foundations-landing-page))
 
 > [!NOTE]
-> The following is just a copy of the instructions. You can take a look at my solution [here](https.//joecrumbs.github.io/odin-landing-page).
+> The following is just a copy of the instructions. You can take a look at my solution [here](https://joecrumbs.github.io/odin-landing-page).
 
 For this project you'll be creating an entire web page from a design we'll provide for you. If you've been following along you should have the skills you need to accomplish this, but it may not be easy!
 
