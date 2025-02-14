@@ -21,10 +21,6 @@ body {
     min-height: 100vh;
 }
 
-main {
-    flex: auto;
-}
-
 h1 {
     font-size: 48px;
     font-weight: 900;
@@ -121,9 +117,12 @@ button:hover {
 }
 
 .content {
+    flex: auto;
+    display: flex;
     flex-direction: column;
     gap: 50px;
     margin: 50px 0;
+    align-items: center;
 }
 
 .cards {
